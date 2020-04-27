@@ -1,0 +1,18 @@
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:TRADE SHOWS eventID:MTLA170620
+Request type: Book an event | Resonse: Booking request has been approved --> eventType:Trade Shows eventID:MTLA170620
+Request type: Book an event | Resonse: There is no capacity for eventType:SEMINARS eventID:QUEA160620
+Request type: Book an event | Resonse: There is no capacity for eventType:Seminars eventID:QUEA160620
